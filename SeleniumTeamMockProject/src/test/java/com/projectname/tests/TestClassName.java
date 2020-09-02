@@ -17,7 +17,7 @@ public class TestClassName extends BaseTestSuite {
 		pageClassName.enterUserName(data[0][0]);
 		SecondPageName secondPageName = pageClassName.clickOnLoginButton();
 
-		assertEquals("Forgotten Phil is the best password?", secondPageName.verifyForgottenPassword());
+		//assertEquals("Forgotten Phil is the best password?", secondPageName.verifyForgottenPassword());
 
 		assertEquals("Forgotten Jan is always the best password?", secondPageName.verifyForgottenPassword());
 

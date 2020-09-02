@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.projectname.tests.TestClassName
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 29.329 sec <<< FAILURE!
+selectComprehensiveCleaningServicePlan(com.projectname.tests.TestClassName)  Time elapsed: 10.185 sec  <<< FAILURE!
+java.lang.AssertionError: Unable to click on login button
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.projectname.pages.PageName.clickOnLoginButton(PageName.java:37)
+	at com.projectname.tests.TestClassName.selectComprehensiveCleaningServicePlan(TestClassName.java:18)
+

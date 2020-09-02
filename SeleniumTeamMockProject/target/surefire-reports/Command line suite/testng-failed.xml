@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.gomechanic.Tests.NavigateToDentingOrPaintingServicesSectionFromHomePageServicesSectionTest">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="aftermethod"/>
+          <include name="naviagteToDentingOrPaintingServicesSectionFromHomePageServicesSection"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.NavigateToDentingOrPaintingServicesSectionFromHomePageServicesSectionTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithQuarterPanelRDentingOrPaintingServiceTest">
+        <methods>
+          <include name="checkoutWithQuarterPanelRDentingOrPaintingService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithQuarterPanelRDentingOrPaintingServiceTest -->
+      <class name="com.gomechanic.Tests.ValidatePhoneNumberFieldInGroundOperationsCareerWithoutPhoneNumberTest">
+        <methods>
+          <include name="validatePhoneNumberInGroundOperationsCareerWithoutPhoneNumber"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidatePhoneNumberFieldInGroundOperationsCareerWithoutPhoneNumberTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithRearDoorLInDentingOrPaintingServicesTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="checkoutWithRearDoorLInDentingOrPaintingServices"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithRearDoorLInDentingOrPaintingServicesTest -->
+      <class name="com.gomechanic.Tests.ValidateNavigateToContactPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateNavigateToContactPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateNavigateToContactPageTest -->
+      <class name="com.gomechanic.Tests.SelectCarDetailsOnServicesPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="selectCarDetailsOnServicesPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.SelectCarDetailsOnServicesPageTest -->
+      <class name="com.gomechanic.Tests.ValidateUserNameInTechnologyCareerSectionWithoutUserNameTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateUserNameInTechnologyCareerSectionWithoutUserName"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUserNameInTechnologyCareerSectionWithoutUserNameTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWhenUserCheckoutWithoutUserNameOnCheckoutPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateeErrorMessageWhenUserCheckoutWithoutUserNameOnCheckoutPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWhenUserCheckoutWithoutUserNameOnCheckoutPageTest -->
+      <class name="com.gomechanic.Tests.LoginWithValidUserCredentialsTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="loginWithValidUserCredentials"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.LoginWithValidUserCredentialsTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWhenUserCheckoutWithoutMobileNumberOnCheckoutPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWhenUserCheckoutWithoutMobileNumber"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWhenUserCheckoutWithoutMobileNumberOnCheckoutPageTest -->
+      <class name="com.gomechanic.Tests.AddComprehensiveServicePlanToCartTest">
+        <methods>
+          <include name="selectComprehensiveServicePlan"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddComprehensiveServicePlanToCartTest -->
+      <class name="com.gomechanic.Tests.RequestCallBackForCarEnquiryTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="requestCallBack"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.RequestCallBackForCarEnquiryTest -->
+      <class name="com.gomechanic.Tests.RemoveAddedServicePlansFromScheduledServicesSectionTest">
+        <methods>
+          <include name="removeAddedServicePlansFromScheduledServicesSection"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.RemoveAddedServicePlansFromScheduledServicesSectionTest -->
+      <class name="com.gomechanic.Tests.AddStandardServicePlanToCartTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="selectStandardServicePlan"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddStandardServicePlanToCartTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithTrunkServiceDentingOrPaintingServiceTest">
+        <methods>
+          <include name="checkoutWithTrunkDentingOrPaintingService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithTrunkServiceDentingOrPaintingServiceTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithoutEmailIdUserAppliesForJobFromGroupOperationsTabTest">
+        <methods>
+          <include name="validateErrorMessageWithoutEmailIdUserAppliesForJobFromGroupOperationsTab"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithoutEmailIdUserAppliesForJobFromGroupOperationsTabTest -->
+      <class name="com.gomechanic.Tests.ValidateUserRegisteredSuccessfullyTest">
+        <methods>
+          <include name="validateUserRegisteredSuccessfullyTest"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUserRegisteredSuccessfullyTest -->
+      <class name="com.gomechanic.Tests.AddCarWashServicePlanToCartTest">
+        <methods>
+          <include name="setUpTest"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddCarWashServicePlanToCartTest -->
+      <class name="com.gomechanic.Tests.ValidateUserNameInAnalyticsCareerSectionWithoutUserNameTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateUserNameInAnalyticsCareerSectionWithoutUserName"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUserNameInAnalyticsCareerSectionWithoutUserNameTest -->
+      <class name="com.gomechanic.Tests.SelectCarDetailsOnInsurancePageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="selectCarDetailsOnInsurancePage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.SelectCarDetailsOnInsurancePageTest -->
+      <class name="com.gomechanic.Tests.AddMultipleWheelCareServicesToCartTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="addMultipleWheelCareServicesToCart"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddMultipleWheelCareServicesToCartTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithWheelCareServicesCarWashPlanFromAddMoreServicesTest">
+        <methods>
+          <include name="orderCarWashServicePlanFromAddMoreServices"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithWheelCareServicesCarWashPlanFromAddMoreServicesTest -->
+      <class name="com.gomechanic.Tests.ValidateCarDetailsByEditCarBrandCarModelCarFuleTypeTest">
+        <methods>
+          <include name="validateCarDetailsByEditCarBrandCarModelCarFuleType"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateCarDetailsByEditCarBrandCarModelCarFuleTypeTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWhenUserGetOnboardWithoutCityNameOnPartnersPageTest">
+        <methods>
+          <include name="validateErrorMessageWhenUserGetOnboardWithoutCityNameOnPartnersPage"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWhenUserGetOnboardWithoutCityNameOnPartnersPageTest -->
+      <class name="com.gomechanic.Tests.AddTeflonCoatingBodyServicePlanToCartTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="selectTeflonCoatingBodyServicePlan"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddTeflonCoatingBodyServicePlanToCartTest -->
+      <class name="com.gomechanic.Tests.ValidateRequestQuoteWithoutMobileNumberTest">
+        <methods>
+          <include name="PleaseEnterValidMobileNumberMessage"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateRequestQuoteWithoutMobileNumberTest -->
+      <class name="com.gomechanic.Tests.AddComprehensiveCleaningServicePlanToCartTest">
+        <methods>
+          <include name="selectComprehensiveCleaningServicePlan" invocation-numbers="0"/>
+          <include name="setUpTest"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddComprehensiveCleaningServicePlanToCartTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithAServicePlanFromAddMoreInCarCareServicesTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="checkoutWithAServicePlanFromAddMoreInCarCareServices"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithAServicePlanFromAddMoreInCarCareServicesTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithoutPasswordOnLoginPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWithInvalidPasswordOnLoginPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithoutPasswordOnLoginPageTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithAServicePlanFromAddMoreInDentingOrPaintingServicesTest">
+        <methods>
+          <include name="checkoutWithTeflonCoatingBodyFromAddMoreServicesInDentingOrPaintingService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithAServicePlanFromAddMoreInDentingOrPaintingServicesTest -->
+      <class name="com.gomechanic.Tests.NavigateToFrequentlyAskedQuestionsPageFromSeeMoreLinkTest">
+        <methods>
+          <include name="navigateToFrequentlyAskedQuestionsPageFromSeeMoreLink"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.NavigateToFrequentlyAskedQuestionsPageFromSeeMoreLinkTest -->
+      <class name="com.gomechanic.Tests.ValidateTotalPriceUpdatedWhenUserRemovesDiscountCodeOnCheckoutTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateTotalPriceUpdatedWhenUserRemovesDiscountCodeOnCheckoutPage"/>
+          <include name="validateTotalPriceUpdatedWhenUserRemovesDiscountCodeOnConfirmOrderPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateTotalPriceUpdatedWhenUserRemovesDiscountCodeOnCheckoutTest -->
+      <class name="com.gomechanic.Tests.RemoveSelectedServicePlansFromCartTest">
+        <methods>
+          <include name="removeSelectedServicePlansFromCart"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.RemoveSelectedServicePlansFromCartTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithRunningBoardRDentingOrPaintingServiceTest">
+        <methods>
+          <include name="checkoutWithRunningBoardRDentingOrPaintingService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithRunningBoardRDentingOrPaintingServiceTest -->
+      <class name="com.gomechanic.Tests.RemoveAddedServicePlansFromCarCareServicesSectionTest">
+        <methods>
+          <include name="removeAddedServicePlanFromCarCareServicesSection"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.RemoveAddedServicePlansFromCarCareServicesSectionTest -->
+      <class name="com.gomechanic.Tests.ValidateUserNameFieldInGroundOperationsCareerSectionWithoutUserNameTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateUserNameInGroundOperationsCareerSectionWithoutUserName"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUserNameFieldInGroundOperationsCareerSectionWithoutUserNameTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithFrontBumperInDentingOrPaintingServicesTest">
+        <methods>
+          <include name="checkoutWithFrontBumperInDentingOrPaintingServices"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithFrontBumperInDentingOrPaintingServicesTest -->
+      <class name="com.gomechanic.Tests.NavigateToScheduledServicesSectionFromHomePageServicesSectionTest">
+        <methods>
+          <include name="navigateToScheduledServicesSectionFromHomePageServicesSection"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.NavigateToScheduledServicesSectionFromHomePageServicesSectionTest -->
+      <class name="com.gomechanic.Tests.ValidateUploadResumeFieldInGroundOperationsCareerSectionWithoutResumeTest">
+        <methods>
+          <include name="validateUploadResumeFieldInGroundOperationsCareerSectionWithoutResume"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUploadResumeFieldInGroundOperationsCareerSectionWithoutResumeTest -->
+      <class name="com.gomechanic.Tests.NavigateToConfirmOrderPageTest">
+        <methods>
+          <include name="navigateToConfirmOrderPage"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.NavigateToConfirmOrderPageTest -->
+      <class name="com.gomechanic.Tests.ValidateUserRegistrationWithExistingUserRegisteredDetailsTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateUserRegistrationWithExistingUserRegisteredDetails"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUserRegistrationWithExistingUserRegisteredDetailsTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWhenUserGetOnboardWithInvalidMobileNumberOnPartnersPageTest">
+        <methods>
+          <include name="validateErrorMessageWithInvalidMobileNumberOnPartnersPage"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWhenUserGetOnboardWithInvalidMobileNumberOnPartnersPageTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithFullBodyDentingOrPaintingServiceTest">
+        <methods>
+          <include name="checkoutWithFullBodyDentingOrPaintingService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithFullBodyDentingOrPaintingServiceTest -->
+      <class name="com.gomechanic.Tests.NavigateToCarCareServicesSectionFromHomePageServicesSectionTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="navigateToCarCareServicesSectionFromHomePageServicesSection"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.NavigateToCarCareServicesSectionFromHomePageServicesSectionTest -->
+      <class name="com.gomechanic.Tests.ValidateNavigateToCareersPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateNavigateToCareersPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateNavigateToCareersPageTest -->
+      <class name="com.gomechanic.Tests.GetQuoteForCarInsuranceTest">
+        <methods>
+          <include name="getQuoteForCarInsuranceTest"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.GetQuoteForCarInsuranceTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithInvalidMobileNumberOnGiveRequirementsPopupInHomePageTest">
+        <methods>
+          <include name="validateErrorMessageWithInvalidMobileNumberOnGiveRequirementsPopup"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithInvalidMobileNumberOnGiveRequirementsPopupInHomePageTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWhenUserGetOnboardWithoutWorkshopNameOnPartnersPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWithoutWorkshopNameOnPartnersPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWhenUserGetOnboardWithoutWorkshopNameOnPartnersPageTest -->
+      <class name="com.gomechanic.Tests.ValidatePhoneNumberForAJobInAllTabCareerTest">
+        <methods>
+          <include name="validatePhoneNumberForAJobInAllTabCareer"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidatePhoneNumberForAJobInAllTabCareerTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithQuarterPanelLInDentingOrPaintingServicesTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="checkoutWithQuarterPanelLInDentingOrPaintingServices"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithQuarterPanelLInDentingOrPaintingServicesTest -->
+      <class name="com.gomechanic.Tests.ValidateCouponCodeErrorMessageWithoutCouponCodeInCarCareServiceTest">
+        <methods>
+          <include name="validateCouponCodeErrorMessageInvalidCouponCodeInCareCareService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateCouponCodeErrorMessageWithoutCouponCodeInCarCareServiceTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWhenUserGetOnboardWithoutMobileNumberOnPartnersPageTest">
+        <methods>
+          <include name="validateErrorMessageWhenUserGetOnboardWithoutMobileNumber"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWhenUserGetOnboardWithoutMobileNumberOnPartnersPageTest -->
+      <class name="com.gomechanic.Tests.NavigateToWheelCareServicesSectionFromHomePageServicesSectionTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="navigateToWheelCareServicesSectionFromHomePageServicesSection"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.NavigateToWheelCareServicesSectionFromHomePageServicesSectionTest -->
+      <class name="com.gomechanic.Tests.AddTyreRotationServicePlanToCartTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="selectTyreRotationServicePlanFromWheelCareServicesSection"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddTyreRotationServicePlanToCartTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithRearDoorRDentingOrPaintingServiceTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="checkoutWithRearDoorRDentingOrPaintingService"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithRearDoorRDentingOrPaintingServiceTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithCeramicCoatingServicePlanFromCarCareSevicesSectionTest">
+        <methods>
+          <include name="checkoutWithCeramicCoatingServicePlanFromCarCareSevicesSection"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithCeramicCoatingServicePlanFromCarCareSevicesSectionTest -->
+      <class name="com.gomechanic.Tests.ValidateCarRegistrationNumberErrorMessageWithoutRegistrationNumberInCarCareServiceTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateCarRegistrationNumberErroMessageWithoutRegistrationNumberInCareCareService"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateCarRegistrationNumberErrorMessageWithoutRegistrationNumberInCarCareServiceTest -->
+      <class name="com.gomechanic.Tests.AddDryCleaningServicePlanToCartTest">
+        <methods>
+          <include name="selectDryCleaningServicePlan"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddDryCleaningServicePlanToCartTest -->
+      <class name="com.gomechanic.Tests.ValidatePhoneNumberFieldInCustomerServiceCareerWithoutPhoneNumberTest">
+        <methods>
+          <include name="validatePhoneNumberInCustomerServiceCareerWithoutPhoneNumber"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidatePhoneNumberFieldInCustomerServiceCareerWithoutPhoneNumberTest -->
+      <class name="com.gomechanic.Tests.ValidateUploadResumeFieldInAnalyticsCareerSectionWithoutResumeTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateUploadResumeFieldInAnalyticsCareerSectionWithoutResume"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUploadResumeFieldInAnalyticsCareerSectionWithoutResumeTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithFenderLDentingOrPaintingServiceTest">
+        <methods>
+          <include name="checkoutWithFenderLDentingOrPaintingService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithFenderLDentingOrPaintingServiceTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithoutEmailIdUserAppliesForJobFromTechnologyTabTest">
+        <methods>
+          <include name="validateErrorMessageWithoutEmailIdUserAppliesForJobFromTechnologyTab"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithoutEmailIdUserAppliesForJobFromTechnologyTabTest -->
+      <class name="com.gomechanic.Tests.ValidateLandMarkErrorMessageWithoutLandMarkInCarCareServiceTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateLandMarkErrorMessageWithoutLandMarkInCarCareService"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateLandMarkErrorMessageWithoutLandMarkInCarCareServiceTest -->
+      <class name="com.gomechanic.Tests.AddAntiRustCoatingServicePlanToCartTest">
+        <methods>
+          <include name="setUpTest"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddAntiRustCoatingServicePlanToCartTest -->
+      <class name="com.gomechanic.Tests.AddMultipleCarCareServicesToCartTest">
+        <methods>
+          <include name="addMultipleCarCareServicesToCart"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddMultipleCarCareServicesToCartTest -->
+      <class name="com.gomechanic.Tests.ApplyAJobInAnalyticsCareerSectionTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="applyAJobInAnalyticsCareerSection"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ApplyAJobInAnalyticsCareerSectionTest -->
+      <class name="com.gomechanic.Tests.ApplyAJobInTechnologyCareerSectionTest">
+        <methods>
+          <include name="applyAJobInTechnologyCareerSection"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ApplyAJobInTechnologyCareerSectionTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithEmptyCartTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWithEmptyCart"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithEmptyCartTest -->
+      <class name="com.gomechanic.Tests.ValidateUpLoadResumeFieldInCustomerServiceCareerSectionWithoutResumeTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateUpLoadResumeFieldInCustomerServiceCareerSectionWithoutResume"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUpLoadResumeFieldInCustomerServiceCareerSectionWithoutResumeTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithFenderRInDentingOrPaintingServicesTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="checkoutWithFenderRInDentingOrPaintingServices"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithFenderRInDentingOrPaintingServicesTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithWheelAlignmentServicePlanFromWheelCareServicesTest">
+        <methods>
+          <include name="checkoutWithWheelAlignmentServicePlan"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithWheelAlignmentServicePlanFromWheelCareServicesTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithRearBumperDentingOrPaintingServiceTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="checkoutWithRearBumperDentingOrPaintingService"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithRearBumperDentingOrPaintingServiceTest -->
+      <class name="com.gomechanic.Tests.GetOnboardWithValidUserDetailsOnPartnersPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="getOnboardWithValidUserDetailsOnPartnersPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.GetOnboardWithValidUserDetailsOnPartnersPageTest -->
+      <class name="com.gomechanic.Tests.AddExteriorPolishingAndRubbingServicePlanToCartTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="selectAddExteriorPolishingAndRubbingServicePlan"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddExteriorPolishingAndRubbingServicePlanToCartTest -->
+      <class name="com.gomechanic.Tests.GiveRequirementsWithMobileNumberOnCarEnquiryPageTest">
+        <methods>
+          <include name="giveRequirementsWithValidMobileNumber"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.GiveRequirementsWithMobileNumberOnCarEnquiryPageTest -->
+      <class name="com.gomechanic.Tests.ValidateNavigateToInsurancePageTest">
+        <methods>
+          <include name="validateNavigateToInsurancePage"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateNavigateToInsurancePageTest -->
+      <class name="com.gomechanic.Tests.ValidateNavigateToPartnersPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateNavigateToPartnersPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateNavigateToPartnersPageTest -->
+      <class name="com.gomechanic.Tests.AddMultipleDentingOrPaintingServicesToCartTest">
+        <methods>
+          <include name="addMultipleDentingOrPaintingServicesToCart"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddMultipleDentingOrPaintingServicesToCartTest -->
+      <class name="com.gomechanic.Tests.ValidateCouponCodeSuccessMessageValidCouponCodeInCarCareServiceTest">
+        <methods>
+          <include name="validateCouponCodeSuccessMessageValidCouponCodeInCareCareService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateCouponCodeSuccessMessageValidCouponCodeInCarCareServiceTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithInvalidCouponCodeOnCheckoutPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWithInvalidCouponCodeOnCheckoutPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithInvalidCouponCodeOnCheckoutPageTest -->
+      <class name="com.gomechanic.Tests.ValidateDiscountAmountAndTotalPriceOnCartTest">
+        <methods>
+          <include name="validateDicountAmountAndTotalPriceOnCart"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateDiscountAmountAndTotalPriceOnCartTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithBonnetDentingOrPaintingServiceTest">
+        <methods>
+          <include name="checkoutWithBonnetDentingOrPaintingServiceTest"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithBonnetDentingOrPaintingServiceTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithRunningBoardLInDentingOrPaintingServicesTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="checkoutWithRunningBoardLInDentingOrPaintingServices"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithRunningBoardLInDentingOrPaintingServicesTest -->
+      <class name="com.gomechanic.Tests.ValidateNavigateToBlogPageTest">
+        <methods>
+          <include name="validateNavigateToBlogPage"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateNavigateToBlogPageTest -->
+      <class name="com.gomechanic.Tests.ApplyAJobInAllTabCareerSectionTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="applyAJobInAllTabCareerSection"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ApplyAJobInAllTabCareerSectionTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithMultipleServicePlansFromMultipleServiceSectionsTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="checkoutWithMultipleServicePlansFromMultipleSeviceSections"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithMultipleServicePlansFromMultipleServiceSectionsTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithInvalidEmailOrPhoneOnLoginPageTest">
+        <methods>
+          <include name="validateErrorMessageWithInvalidEmailOrPhoneOnLoginPageTest"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithInvalidEmailOrPhoneOnLoginPageTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithInvalidCouponCodeOnConfirmCheckoutPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWithInvalidCouponCodeOnConfirmCheckoutPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithInvalidCouponCodeOnConfirmCheckoutPageTest -->
+      <class name="com.gomechanic.Tests.ApplyAJobInGroundOperationsCareerSectionTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="applyAJobInGroundOperationsCareerSection"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ApplyAJobInGroundOperationsCareerSectionTest -->
+      <class name="com.gomechanic.Tests.NavigateToCheckoutPageFromCartTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="navigateToCheckoutPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.NavigateToCheckoutPageFromCartTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithoutEmailIdUserAppliesForJobFromAllTabTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWithoutEmailUserAppliesJobFromAllTab"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithoutEmailIdUserAppliesForJobFromAllTabTest -->
+      <class name="com.gomechanic.Tests.ValidateSelectedServicePlansPriceDetailsOnCartTest">
+        <methods>
+          <include name="validateSelectedServicePlansPriceDetails"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateSelectedServicePlansPriceDetailsOnCartTest -->
+      <class name="com.gomechanic.Tests.ValidateNavigateToServicesPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateNavigateToServicesPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateNavigateToServicesPageTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWhenUserCheckoutWithoutEmailIdOnCheckoutPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWhenUserCheckoutWithoutEmailIdOnCheckoutPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWhenUserCheckoutWithoutEmailIdOnCheckoutPageTest -->
+      <class name="com.gomechanic.Tests.ValidatePhoneNumberFieldInAnalyticsCareerWithoutPhoneNumberTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validatePhoneNumberInAnalyticsCareerWithoutPhoneNumber"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidatePhoneNumberFieldInAnalyticsCareerWithoutPhoneNumberTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithFrontDoorRInDentingOrPaintingServicesTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="checkoutWithFrontDoorRInDentingOrPaintingServices"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithFrontDoorRInDentingOrPaintingServicesTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithoutEmailIdUserAppliesForJobFromAnalyticsTabTest">
+        <methods>
+          <include name="validateErrorMessageWithoutEmailIdUserAppliesForJobFromAnalyticsTab"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithoutEmailIdUserAppliesForJobFromAnalyticsTabTest -->
+      <class name="com.gomechanic.Tests.ValidateCouponCodeSuccessMessageAfterValidateDiscountPriceInCarCareServiceTest">
+        <methods>
+          <include name="validateCouponCodeSuccessMessageAfterValidateDiscountPriceInCareCareService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateCouponCodeSuccessMessageAfterValidateDiscountPriceInCarCareServiceTest -->
+      <class name="com.gomechanic.Tests.ValidateAddedServicePlansAndPriceDetailsOnCartTest">
+        <methods>
+          <include name="validateAddedServicePlansAndPriceDetailsOnCart"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateAddedServicePlansAndPriceDetailsOnCartTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithAServicePlanFromAddMoreInWheelCareServiceTest">
+        <methods>
+          <include name="checkoutWithAServicePlanFromAddMoreInWheelCareService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithAServicePlanFromAddMoreInWheelCareServiceTest -->
+      <class name="com.gomechanic.Tests.ValidateNavigateToFaqsPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateNavigateToFaqsPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateNavigateToFaqsPageTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithoutMobileNumberOnInsurancePageTest">
+        <methods>
+          <include name="validateErrorMessageWithoutMobileNumberOnInsurancePage"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithoutMobileNumberOnInsurancePageTest -->
+      <class name="com.gomechanic.Tests.ValidateUserNameInAllCareerSectionWithoutUserNameTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateUserNameInAllCareerSectionWithoutUserName"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUserNameInAllCareerSectionWithoutUserNameTest -->
+      <class name="com.gomechanic.Tests.ValidateUploadResumeFieldInTechnologyCareerSectionWithoutResumeTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateUploadResumeFieldInTechnologyCareerSectionWithoutResume"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUploadResumeFieldInTechnologyCareerSectionWithoutResumeTest -->
+      <class name="com.gomechanic.Tests.ApplyAJobInCustomerServiceCareerSectionTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="applyAJobInCustomerServiceCareerSection"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ApplyAJobInCustomerServiceCareerSectionTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithoutEmailIdUserAppliesForJobFromCustomerServiceTabTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWithoutEmailIdUserAppliesForJobFromCustomerServiceTab"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithoutEmailIdUserAppliesForJobFromCustomerServiceTabTest -->
+      <class name="com.gomechanic.Tests.ValidateUploadResumeFieldInAllCareerSectionWithoutResumeTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateUploadResumeFieldInAllCareerSectionWithoutResume"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUploadResumeFieldInAllCareerSectionWithoutResumeTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithAServicePlanFromAddMoreInScheduledServiceTest">
+        <methods>
+          <include name="checkoutWithAServicePlanFromAddMoreInScheduledService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithAServicePlanFromAddMoreInScheduledServiceTest -->
+      <class name="com.gomechanic.Tests.ValidateRequestQuoteWithoutCarDetailsTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="PleaseSelectCarDetailsMessage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateRequestQuoteWithoutCarDetailsTest -->
+      <class name="com.gomechanic.Tests.ValidateUserNameFieldInCustomerServiceCareerSectionWithoutUserNameTest">
+        <methods>
+          <include name="validateUserNameInCustomerServiceCareerSectionWithoutUserName"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUserNameFieldInCustomerServiceCareerSectionWithoutUserNameTest -->
+      <class name="com.gomechanic.Tests.AddInteriorDetailCleaningServicePlanToCartTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="selectInteriorDetailCleaningServicePlan"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddInteriorDetailCleaningServicePlanToCartTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithoutCouponCodeOnConfirmCheckoutPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWihoutCouponCodeOnConfirmCheckoutPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithoutCouponCodeOnConfirmCheckoutPageTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithoutMobileNumberOnGiveRequirementsPopupInHomePageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWithoutMobileNumberOnGiveRequirementsPopup"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithoutMobileNumberOnGiveRequirementsPopupInHomePageTest -->
+      <class name="com.gomechanic.Tests.ValidateNavigateToServicesPageAfterCarEnquiryTest">
+        <methods>
+          <include name="verifyNavigateToServicePageAfterCarEnquiry"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateNavigateToServicesPageAfterCarEnquiryTest -->
+      <class name="com.gomechanic.Tests.NavigateToServicesPageUsingCheckPriceFormTest">
+        <methods>
+          <include name="checkPricesForRequiredCarsFromHomePage"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.NavigateToServicesPageUsingCheckPriceFormTest -->
+      <class name="com.gomechanic.Tests.RequestCallBackOnGiveRequirementsPopupFromHomePageTest">
+        <methods>
+          <include name="requestCallBackOnGiveRequirementsPopupFromHomePage"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.RequestCallBackOnGiveRequirementsPopupFromHomePageTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithWheelBalancingServicePlanFromWheelCareServicesTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="checkoutWithWheelBalancingServicePlan"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithWheelBalancingServicePlanFromWheelCareServicesTest -->
+      <class name="com.gomechanic.Tests.ValidateServicePlanOrderedSuccessMessageTest">
+        <methods>
+          <include name="validateServicePlanOrderedSuccessMessage"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateServicePlanOrderedSuccessMessageTest -->
+      <class name="com.gomechanic.Tests.ValidateSelectedCityLocationTest">
+        <methods>
+          <include name="validateSelectedCityLocation"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateSelectedCityLocationTest -->
+      <class name="com.gomechanic.Tests.ValidatePickUpAddressErrorMessageWithoutAddressInCarCareServiceTest">
+        <methods>
+          <include name="validateLandMarkErrorMessageWithoutLandMarkInCareCareService"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidatePickUpAddressErrorMessageWithoutAddressInCarCareServiceTest -->
+      <class name="com.gomechanic.Tests.AddBasicServicePlanToCartTest">
+        <methods>
+          <include name="setUpTest"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.AddBasicServicePlanToCartTest -->
+      <class name="com.gomechanic.Tests.ValidateNavigateToAboutUsPageTest">
+        <methods>
+          <include name="validateNavigateToAboutUsPage"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateNavigateToAboutUsPageTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithInvalidLoginCredentialsTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWithInvalidLoginCredentials"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithInvalidLoginCredentialsTest -->
+      <class name="com.gomechanic.Tests.ValidateUserUnableToAddMoreThanOneScheduledServiceToCartTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateUserUnableToAddMoreThanOneScheduledServiceToCart"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateUserUnableToAddMoreThanOneScheduledServiceToCartTest -->
+      <class name="com.gomechanic.Tests.RemoveAddedServicePlanFromDentingOrPaintingSectionTest">
+        <methods>
+          <include name="removeAddedServicePlanFromDentingPaintingSection"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.RemoveAddedServicePlanFromDentingOrPaintingSectionTest -->
+      <class name="com.gomechanic.Tests.CheckoutWithFrontDoorLDentingOrPaintingServiceTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="checkoutWithFrontDoorLDentingOrPaintingService"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.CheckoutWithFrontDoorLDentingOrPaintingServiceTest -->
+      <class name="com.gomechanic.Tests.RemoveAddedServicePlansFromWheelCareServicesSectionTest">
+        <methods>
+          <include name="removeAddedServicePlansFromWheelCareServicesSection"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.RemoveAddedServicePlansFromWheelCareServicesSectionTest -->
+      <class name="com.gomechanic.Tests.ValidatePhoneNumberFieldInTechnologyCareerWithoutPhoneNumberTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateUserNameInTechnologyCareerSectionWithoutUserName"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidatePhoneNumberFieldInTechnologyCareerWithoutPhoneNumberTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWithInvalidPasswordOnLoginPageTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWithInvalidPasswordOnLoginPage"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWithInvalidPasswordOnLoginPageTest -->
+      <class name="com.gomechanic.Tests.ValidateErrorMessageWhenUserCheckPriceWithoutCarDetailsTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="validateErrorMessageWhenUserCheckPriceWithoutCarDetails"/>
+        </methods>
+      </class> <!-- com.gomechanic.Tests.ValidateErrorMessageWhenUserCheckPriceWithoutCarDetailsTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

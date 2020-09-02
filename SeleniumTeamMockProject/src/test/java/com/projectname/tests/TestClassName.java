@@ -16,6 +16,6 @@ public class TestClassName extends BaseTestSuite {
 		PageName pageClassName = new PageName(driver, testLog);
 		pageClassName.enterUserName(data[0][0]);
 		SecondPageName secondPageName = pageClassName.clickOnLoginButton();
-		assertEquals("Forgotten vishal  password?", secondPageName.verifyForgottenPassword());
+		assertEquals("Forgotten vishal 3 password?", secondPageName.verifyForgottenPassword());
 	}
 }

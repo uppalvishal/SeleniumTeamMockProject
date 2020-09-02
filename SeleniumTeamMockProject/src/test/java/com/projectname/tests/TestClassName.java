@@ -19,7 +19,7 @@ public class TestClassName extends BaseTestSuite {
 
 		//assertEquals("Forgotten Phil is the best password?", secondPageName.verifyForgottenPassword());
 
-		assertEquals("Forgotten ord?", secondPageName.verifyForgottenPassword());
+		assertEquals("Phil changed this line?", secondPageName.verifyForgottenPassword());
 
 	}
 }

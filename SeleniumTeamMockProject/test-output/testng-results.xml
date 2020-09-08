@@ -1,77 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results total="1" passed="0" failed="1" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-20T06:17:05Z" name="Suite" finished-at="2020-08-20T06:17:32Z" duration-ms="27004">
+  <suite name="Suite" duration-ms="41155" started-at="2020-09-08T12:16:04 AEST" finished-at="2020-09-08T12:16:45 AEST">
     <groups>
     </groups>
-    <test started-at="2020-08-20T06:17:05Z" name="Test" finished-at="2020-08-20T06:17:32Z" duration-ms="27004">
-      <class name="com.projectname.tests.TestClassName">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.projectname.tests.TestClassName@5f8edcc5]" started-at="2020-08-20T16:17:03Z" name="beforeSuite" finished-at="2020-08-20T16:17:05Z" duration-ms="1273" status="PASS">
+    <test name="Test" duration-ms="41155" started-at="2020-09-08T12:16:04 AEST" finished-at="2020-09-08T12:16:45 AEST">
+      <class name="com.projectname.tests.Test_001">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.projectname.tests.Test_001@15d0c81b]" name="beforeSuite" is-config="true" duration-ms="98" started-at="2020-09-08T12:16:04 AEST" finished-at="2020-09-08T12:16:04 AEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="beforeEveryTestStarts()[pri:0, instance:com.projectname.tests.TestClassName@5f8edcc5]" started-at="2020-08-20T16:17:05Z" name="beforeEveryTestStarts" finished-at="2020-08-20T16:17:20Z" duration-ms="15194" status="PASS">
+        <test-method status="PASS" signature="beforeEveryTestStarts()[pri:0, instance:com.projectname.tests.Test_001@15d0c81b]" name="beforeEveryTestStarts" is-config="true" duration-ms="5964" started-at="2020-09-08T12:16:04 AEST" finished-at="2020-09-08T12:16:10 AEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeEveryTestStarts -->
-        <test-method signature="selectComprehensiveCleaningServicePlan()[pri:0, instance:com.projectname.tests.TestClassName@5f8edcc5]" started-at="2020-08-20T16:17:20Z" name="selectComprehensiveCleaningServicePlan" finished-at="2020-08-20T16:17:30Z" duration-ms="10214" status="FAIL">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[Unable to click on login button]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: Unable to click on login button
-	at org.testng.Assert.fail(Assert.java:94)
-	at com.projectname.pages.PageName.clickOnLoginButton(PageName.java:37)
-	at com.projectname.tests.TestClassName.selectComprehensiveCleaningServicePlan(TestClassName.java:18)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
-	at org.testng.TestNG.run(TestNG.java:1057)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method status="PASS" signature="tcase1()[pri:0, instance:com.projectname.tests.Test_001@15d0c81b]" name="tcase1" duration-ms="34287" started-at="2020-09-08T12:16:10 AEST" finished-at="2020-09-08T12:16:44 AEST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- selectComprehensiveCleaningServicePlan -->
-        <test-method is-config="true" signature="afterEveryTestEnds(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.projectname.tests.TestClassName@5f8edcc5]" started-at="2020-08-20T16:17:30Z" name="afterEveryTestEnds" finished-at="2020-08-20T16:17:32Z" duration-ms="1575" status="PASS">
+        </test-method> <!-- tcase1 -->
+        <test-method status="PASS" signature="afterEveryTestEnds(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.projectname.tests.Test_001@15d0c81b]" name="afterEveryTestEnds" is-config="true" duration-ms="880" started-at="2020-09-08T12:16:44 AEST" finished-at="2020-09-08T12:16:45 AEST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=selectComprehensiveCleaningServicePlan status=FAILURE method=TestClassName.selectComprehensiveCleaningServicePlan()[pri:0, instance:com.projectname.tests.TestClassName@5f8edcc5] output={null}]]]>
+                <![CDATA[[TestResult name=tcase1 status=SUCCESS method=Test_001.tcase1()[pri:0, instance:com.projectname.tests.Test_001@15d0c81b] output={null}]]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void com.projectname.tests.TestClassName.selectComprehensiveCleaningServicePlan()]]>
+                <![CDATA[public void com.projectname.tests.Test_001.tcase1() throws java.lang.Exception]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEveryTestEnds -->
-      </class> <!-- com.projectname.tests.TestClassName -->
+      </class> <!-- com.projectname.tests.Test_001 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
